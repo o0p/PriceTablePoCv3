@@ -112,3 +112,13 @@ color: #046ff9;
     font-size: 2em;
     font-weight: 700;
 }
+
+.pricing-button {
+    border: 1px solid #9dd1ff;
+    border-radius: 10px;
+    color: #348efe;
+    display: inline-block;
+    padding: .74em 2em;
+    text-decoration: none;
+    margin: 25px 0;
+}
